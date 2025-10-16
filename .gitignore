@@ -1,0 +1,9 @@
+# Hide environment & build files
+.env
+*.log
+*.bak
+*.zip
+node_modules/
+dist/
+src/
+__pycache__/
