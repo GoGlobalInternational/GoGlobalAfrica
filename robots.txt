@@ -1,3 +1,6 @@
+# Allow all search engines to crawl the site
 User-agent: *
 Allow: /
-Sitemap: https://goglobal-recruitment.github.io/Go-Global-Recruitment/sitemap.xml
+
+# Sitemap for Google and other search engines
+Sitemap: https://goglobalinternational.github.io/GoGlobalAfrica/sitemap.xml
